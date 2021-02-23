@@ -8,5 +8,5 @@ Performing analysis on Kickstarter data to uncover trends
 
 **Line Chart image**
 
-[Line Chart](PareCategoryLineChart.png)
+[Line Chart](ParentCategoryLineChart.png)
 
